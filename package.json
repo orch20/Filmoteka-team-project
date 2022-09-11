@@ -2,7 +2,7 @@
   "name": "goit-team-project-js",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AndriiPichkorkiy.github.io/goit-team-project-js/",
+  "homepage": "https://orch20.github.io/Filmoteka-team-project/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-team-project-js/"
